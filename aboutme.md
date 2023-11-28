@@ -3,7 +3,7 @@ layout: page
 title: About the Conference
 subtitle: What is this Conference about?
 ---
-
+---
 Among the many current methodological innovations in the social sciences is the increasing use of **person-oriented methods**.
 These methods have many advantages: They…
 ... help increasing the credibility of research findings, 
@@ -15,5 +15,5 @@ Although these advantages have been known for many decades, **person-oriented** 
 This conference aims to initiate an interdisciplinary dialogue about advantages and bring communities with expertise on person-oriented methods, variable-oriented methods, heterogeneity, and personalized applications together (e.g., personalized learning, personalized medicine etc.)
 
 
-
 We kindly ask for your participation in and your submissions to the first conference of the Society of Person-Orientated Research. The first conference is entitled **_"discussion on the validity of person- and variable-oriented methods"_** and will take place **online**.
+---
